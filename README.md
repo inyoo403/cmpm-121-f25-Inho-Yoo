@@ -1,6 +1,11 @@
 # CMPM 121 Section Activity
 
-This section activity is intended to introduce you to many of the tools and workflows that we'll use in CMPM 121, Game Development Patterns.
+This is my customized project for CMPM 121, Game Development Patterns.
+
+## My Contribution
+
+I modified the starter template so that the button increases a counter when clicked.\
+This was my first test of connecting DOM elements with TypeScript logic and verifying that updates show up on the page.
 
 Key tools:
 
